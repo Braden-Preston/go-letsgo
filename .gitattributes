@@ -1,0 +1,8 @@
+# language overrides
+*.tmpl linguist-language=HTML
+*.css linguist-language=PostCSS
+
+# detectable languages
+*.tmpl linguist-detectable=true
+*.sql linguist-detectable=true
+*.css linguist-detectable=true
